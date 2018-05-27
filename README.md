@@ -8,7 +8,7 @@ algorithm to generate a stable allocation of resources, which means that:
 - nothing can be gained by misrepresenting your preferences
 
 ## Installation
-** NOTE: this is not published to RubyGems yet.**
+**NOTE: this is not published to RubyGems yet.**
 
 Add this line to your application's Gemfile:
 
